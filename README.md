@@ -1,1 +1,3 @@
-# MLOps-Team ![197611877-583a0bb2-a8fb-4275-882-2.png](..%2F..%2F..%2FDownloads%2F197611877-583a0bb2-a8fb-4275-882-2.png)
+# MLOps-Team 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
